@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import './dummy_data.dart';
 
 class CategoryItem extends StatelessWidget {
   final String title;
